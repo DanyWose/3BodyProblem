@@ -2,8 +2,7 @@
 
 This is a 2D-representation of the three body problem (three particles orbiting in a closed system).
 
-Each two text cases are for x and y component of each particle, try setting a value so you can visualize all three particles.
-You can drag them with your mouse too.
+You can drag the bodies to set the initial conditions of the system.
 
 Press the big white button to start the simulation, it may take a time if maximum value of time is set too high (you can edit it in the .py).
 
